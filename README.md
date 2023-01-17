@@ -11,4 +11,4 @@ Conversely, the user can also unblock websites that had been blocked.
 ## How to Install and Use
 1. Download the files in this repository in a single folder. Note that the Python libraries used are os and shutil.
 2. Run main.py in the terminal.
-> WebsiteBlocker was succesfully used and tested on Windows 10. Other versions might or might not work.  
+> WebsiteBlocker was succesfully used and tested on Windows 10.
